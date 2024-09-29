@@ -5,8 +5,8 @@ public class studentTest {
         System.out.println(s.getsID() + " " + s.getsName() + " " + s.getsGender() + " " + s.getsScore());
     }
     public static void prints(Student[] s) {
-        for (int i = 0; i < s.length; i++) {
-            print(s[i]);
+        for (Student student : s) {
+            print(student);
         }
     }
     public static int arrMin(Student[] s) {
