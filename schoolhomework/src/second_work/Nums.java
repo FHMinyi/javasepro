@@ -2,7 +2,7 @@ package second_work;
 
 //import java.util.Scanner;
 
-import static java.lang.System.exit;
+//import static java.lang.System.exit;
 
 public class Nums {
     public static boolean isMid(int[] a, int idx) {
@@ -13,8 +13,7 @@ public class Nums {
         for (int i = idx + 1; i < a.length; i++) {
             sum2 += a[i];
         }
-        if (sum1 == sum2) return true;
-        return false;
+        return sum1 == sum2;
     }
     public static void findMid(int[] a) {
         int idx = 0;
@@ -30,8 +29,8 @@ public class Nums {
     }
     public static void printArray(int[] a) {
         System.out.print("数组为：");
-        for (int i = 0; i < a.length; i++) {
-            System.out.print(a[i] + " ");
+        for (int j : a) {
+            System.out.print(j + " ");
         }
         System.out.println("的中心下标为");
     }
