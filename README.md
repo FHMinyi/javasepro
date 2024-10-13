@@ -2,4 +2,5 @@
 day1学完<br>
 day2学完<br>
 程序流程控制学完<br>
-[目前学到数组](https://www.bilibili.com/video/BV1Cv411372m?p=46)
+day7学完<br>
+[目前学到常用api](https://www.bilibili.com/video/BV1Cv411372m?p=76)
