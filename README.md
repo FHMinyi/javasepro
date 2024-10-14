@@ -2,5 +2,7 @@
 day1学完<br>
 day2学完<br>
 程序流程控制学完<br>
-day7学完<br>
-[目前学到常用api](https://www.bilibili.com/video/BV1Cv411372m?p=76)
+da7学完<br>
+da8学完<br>
+进入ATM项目学习<br>
+[目前学到ATM项目](https://www.bilibili.com/video/BV1Cv411372m/?p=86)
