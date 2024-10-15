@@ -8,7 +8,7 @@ public class MovieOperator {
     }
     // 1.展示系统全部电影信息
     public void printAllMovies() {
-        System.out.println("————————系统群不电源信息如下————————");
+        System.out.println("————————系统全部电影信息如下————————");
         for (Movie movie : movies) {
             System.out.println("编号：" + movie.getId());
             System.out.println("名称：" + movie.getName());
