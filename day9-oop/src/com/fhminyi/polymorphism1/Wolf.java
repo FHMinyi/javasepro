@@ -10,4 +10,8 @@ public class Wolf extends Animal{
     public void run() {
         System.out.println("Wolf is running");
     }
+
+    public void eatSheep() {
+        System.out.println("Wolf is eating sheep");
+    }
 }

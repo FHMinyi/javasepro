@@ -6,4 +6,8 @@ public class Tortoise extends Animal{
     public void run() {
         System.out.println("Tortoise is running");
     }
+
+    public void rretractedHead() {
+        System.out.println("Tortoise is retractedHead");
+    }
 }
