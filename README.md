@@ -6,5 +6,6 @@ day7学完<br>
 day8学完<br>
 进入ATM项目学习<br>
 day9多态学完<br>
-[抽象类完，接口开始](https://www.bilibili.com/video/BV1gb42177hm?p=77)
+day10 抽象类, 枚举和接口学习完<br>
+[目前学习内容](https://www.bilibili.com/video/BV1gb42177hm?p=83)
  
