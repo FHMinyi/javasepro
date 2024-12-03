@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ATM-System-app/ATM-System-app.iml" filepath="$PROJECT_DIR$/ATM-System-app/ATM-System-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/array-app/array-app.iml" filepath="$PROJECT_DIR$/array-app/array-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/collection-app/collection-app.iml" filepath="$PROJECT_DIR$/collection-app/collection-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02-basic-app/day02-basic-app.iml" filepath="$PROJECT_DIR$/day02-basic-app/day02-basic-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/day02-yf-app/day02-yf-app.iml" filepath="$PROJECT_DIR$/day02-yf-app/day02-yf-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/day10-oop/day10-oop.iml" filepath="$PROJECT_DIR$/day10-oop/day10-oop.iml" />
